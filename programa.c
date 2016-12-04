@@ -10,7 +10,7 @@
 * 		Andrés Sánchez López - B26214
 *
 *	Descripción: Este archivo es el código solicitado en la segunda parte
-*   de la tarea programada 3, y corrresponde al quiz 9. 
+*   de la tarea programada 3, y corrresponde al quiz 9 también. 
 */
 
 #include <stdio.h>
